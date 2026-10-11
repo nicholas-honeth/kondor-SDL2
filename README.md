@@ -1,7 +1,7 @@
 # Kondor for Linux (SDL2)
 
 A native port of **Kondor** v1.0 (12/20/1999), a freeware DOS tank game by QSoft
-(Gil Dabah and Oren Becker), reconstructed from the shipped `KONDOR.EXE`.
+(Gil Dabah and Oren Becker), reconstructed from the shipped `KONDOR.EXE` avaliable at the [DOS Games Archive](https://www.dosgamesarchive.com/download/kondor).
 
 The DOS executable was built with Borland C++ and still contained its Turbo Debugger
 information: function and variable names, all 31 struct/class layouts, local variables,
@@ -143,5 +143,5 @@ these in use.
 Kondor is © 1997–1999 QSoft and was released as freeware. This is an unofficial
 reconstruction for preservation and interoperability. It contains none of the game's
 data: images, sounds, maps and the strings inside `KONDOR.EXE` are read from your copy
-at run time. Ask the authors before redistributing it. `src/compat/font8x8_basic.h` is
+at run time. Published with the original authors' permission. `src/compat/font8x8_basic.h` is
 public domain (Daniel Hepper, from the public-domain IBM VGA font).
